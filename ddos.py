@@ -6,7 +6,6 @@ from random import choice, randint
 from socket import socket, AF_INET, SOCK_STREAM, error
 from time import sleep
 import socket, threading
-import cfscrape
 from threading import Thread
 import random
 import time
